@@ -4,6 +4,8 @@ Right click file(s) or folder(s) to perform an EXIF Date Read on one, or many fi
 
 ![using EXIF Date Read](./images/quick-action.png)
 
+**POSSIBLY USEFUL:** I have also authored an [EXIF Date Change.workflow for macOS](https://github.com/rajannpatel/EXIF-Date-Change.workflow-for-macOS)
+
 ---
 
 ## Prerequisites
