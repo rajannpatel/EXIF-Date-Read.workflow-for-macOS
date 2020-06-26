@@ -66,6 +66,12 @@ rm -rf EXIF\ Date\ Read.workflow
 
 ![Installation Prompt](./images/install.png)
 
+### Confirm Installation Succeeded
+
+If you don't see **EXIF Date Read** in **System Preferences** > **Extensions** > **Finder** just like the screenshot below, you may need to run the `open EXIF\ Date\ Read.workflow` command again, or double click it to run it.
+
+![confirm installation in System Preferences > Extensions > Finder](./images/ExtensionsFinder.png)
+
 ## Usage
 
 Using **Finder.app** you can right click on any file(s) or folder(s) with images to read the EXIF Create Date property.
